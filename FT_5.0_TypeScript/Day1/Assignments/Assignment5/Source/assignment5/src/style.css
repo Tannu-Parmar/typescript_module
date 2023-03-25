@@ -1,0 +1,17 @@
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 60%;
+  text-align: center;
+}
+#searchEmpTable,
+#afterTable,
+#afterTableJoinCity {
+  margin: 1rem 0rem;
+}
